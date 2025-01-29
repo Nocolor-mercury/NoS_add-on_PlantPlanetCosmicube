@@ -1,0 +1,406 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Climb" : {
+				"Hash" : "91ce9daf0a86deb839b24242ae52f731",
+				"Address" : "zG0f94mn_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "482876ffeffa33003419e25a81410359",
+				"Address" : "zG0f94mn_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "ec44623bc9ac1b848518ca986b3c0898",
+				"Address" : "zG0f94mn_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "アーティチョーク",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "052ad277f365543df66b29af9c5ba7b3",
+				"Address" : "1cdkOf3Qb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "d76bdea32b86124184a3c7afa4b951f1",
+				"Address" : "1cdkOf3Qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "50e679fb6dcaaa61914b3db905d31302",
+				"Address" : "1cdkOf3Qb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "キバナルリソウ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "72f8773bd0c5b91d30e003ff35c6a586",
+				"Address" : "cc3orm1r_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "a980277639f63771ebcd55d6f19d88ed",
+				"Address" : "cc3orm1r_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "91d5f310f3c8a974aeb4e40d09e72031",
+				"Address" : "cc3orm1r_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "グズマニア",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "b075075a14b04273aa39248b7b1caa45",
+				"Address" : "dhrE8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "5784384133f672bc44546399396275d6",
+				"Address" : "dhrE8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "04c1b0ba316b7ea83e63ec3bf0c54bed",
+				"Address" : "dhrE8c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ススキ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "a9fce28bf14088041b7a68bb237494fc",
+				"Address" : "nx9dMzw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "df01b70c1b6599c2e024227ea64cc75c",
+				"Address" : "nx9dMzw_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "f4384cc55e5db294586ac7eba6ede4ea",
+				"Address" : "nx9dMzw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "スズラン",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "da97a813b4a44d596502ec4f784b75bf",
+				"Address" : "gsFy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "37318f315d66d9767d0ac457e6e63cb7",
+				"Address" : "gsFy_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "62ee47dcd67473ddaf3ac2c9e11a5ad5",
+				"Address" : "gsFy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "タケ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "c1beb44575aa7c32cd4135edeb29d6a9",
+				"Address" : "AblqsAw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "5f86177cba561e8290a217df60efd850",
+				"Address" : "AblqsAw_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "89e0765c755323c931b9091c2a224f06",
+				"Address" : "AblqsAw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "タンポポ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "b87aa20d60d3b2eee48843050a32a919",
+				"Address" : "7v3CtIps_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "2b47a714825d2ce1d79e8a8908a7b02e",
+				"Address" : "7v3CtIps_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "82865bb6703197d6b3527c8466da3089",
+				"Address" : "7v3CtIps_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ネモフィラ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "f0d383d7825aec41a87146e962e74ba0",
+				"Address" : "atxMcOWzb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "31de1e098dfe17cb576f29057883a487",
+				"Address" : "atxMcOWzb_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "1dcf6cc3c83871d696bc5dfa98b2662d",
+				"Address" : "atxMcOWzb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハイビスカス",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "0b43583cf59ba0066c176363579f713c",
+				"Address" : "UoHy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "a1724c9c14403ec94d8e5ba0a1f77954",
+				"Address" : "UoHy_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "883b6d42bb4c55ab91e831419eed16f1",
+				"Address" : "UoHy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハス",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "9e1034947c29d396d80ab9df68f63880",
+				"Address" : "Sq56Jjrs_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "a368af26912aae06d51763c6ac6cf4c9",
+				"Address" : "Sq56Jjrs_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "72b7533637c19c7efd6d65e8d60c3156",
+				"Address" : "Sq56Jjrs_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハスカップ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "2384864fba836a73ef882623691b2ff0",
+				"Address" : "50voeCw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "77a766e87ab27ffb31c40f8470ff7f04",
+				"Address" : "50voeCw_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "0f6ef621ac7f39216966ec15aee36382",
+				"Address" : "50voeCw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハマゴウ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "add89f9d367ab113668723b8884684cc",
+				"Address" : "kEG73Nts_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "b9242217b874441e8facde8b38ff76bd",
+				"Address" : "kEG73Nts_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "7bd785160b80404f88381f8ce4368445",
+				"Address" : "kEG73Nts_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ヒガンバナ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "404310e1080302a7c736006d18e75e1a",
+				"Address" : "cds16Dw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "f07d47800fe15d41c13a995bfc3f866e",
+				"Address" : "cds16Dw_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2e5fbbc9dedd522c1fc0650ef16be3f1",
+				"Address" : "cds16Dw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ムスカリ",
+			"Author" : "",
+			"Package" : "93"
+		},
+		{
+			"Climb" : {
+				"Hash" : "6e0bced0680e8b81fdfd03b36f5a99bd",
+				"Address" : "yWOh9c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "e01035ff90d6f45e5e51d082b1da99a9",
+				"Address" : "yWOh9c_Main.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "b9c24034034c9b13c3aa72ba9a91ab37",
+				"Address" : "yWOh9c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ヤナギ",
+			"Author" : "",
+			"Package" : "93"
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "93",
+			"Format" : "PlantPlanet",
+			"Priority" : 1
+		}
+	]
+}
