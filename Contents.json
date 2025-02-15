@@ -2,10 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "482876ffeffa33003419e25a81410359",
 				"Address" : "zG0f94mn_Main.png",
@@ -21,6 +17,10 @@
 				"Address" : "zG0f94mn_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "アーティチョーク",
@@ -28,10 +28,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "d76bdea32b86124184a3c7afa4b951f1",
 				"Address" : "1cdkOf3Qb_Main.png",
@@ -47,6 +43,10 @@
 				"Address" : "1cdkOf3Qb_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "キバナルリソウ",
@@ -54,10 +54,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "a980277639f63771ebcd55d6f19d88ed",
 				"Address" : "cc3orm1r_Main.png",
@@ -73,6 +69,10 @@
 				"Address" : "cc3orm1r_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "グズマニア",
@@ -80,10 +80,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "5784384133f672bc44546399396275d6",
 				"Address" : "dhrE8c_Main.png",
@@ -99,6 +95,10 @@
 				"Address" : "dhrE8c_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ススキ",
@@ -106,10 +106,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "df01b70c1b6599c2e024227ea64cc75c",
 				"Address" : "nx9dMzw_Main.png",
@@ -125,6 +121,10 @@
 				"Address" : "nx9dMzw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "スズラン",
@@ -132,10 +132,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "37318f315d66d9767d0ac457e6e63cb7",
 				"Address" : "gsFy_Main.png",
@@ -151,6 +147,10 @@
 				"Address" : "gsFy_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "タケ",
@@ -158,10 +158,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "5f86177cba561e8290a217df60efd850",
 				"Address" : "AblqsAw_Main.png",
@@ -177,6 +173,10 @@
 				"Address" : "AblqsAw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "タンポポ",
@@ -184,10 +184,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "2b47a714825d2ce1d79e8a8908a7b02e",
 				"Address" : "7v3CtIps_Main.png",
@@ -203,6 +199,10 @@
 				"Address" : "7v3CtIps_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ネモフィラ",
@@ -210,10 +210,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "31de1e098dfe17cb576f29057883a487",
 				"Address" : "atxMcOWzb_Main.png",
@@ -229,6 +225,10 @@
 				"Address" : "atxMcOWzb_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ハイビスカス",
@@ -236,10 +236,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f24955b91f459b6fc56524bbdcd487b9",
 				"Address" : "UoHy_Main.png",
@@ -255,6 +251,10 @@
 				"Address" : "UoHy_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ハス",
@@ -262,10 +262,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "a368af26912aae06d51763c6ac6cf4c9",
 				"Address" : "Sq56Jjrs_Main.png",
@@ -281,6 +277,10 @@
 				"Address" : "Sq56Jjrs_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ハスカップ",
@@ -288,10 +288,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "77a766e87ab27ffb31c40f8470ff7f04",
 				"Address" : "50voeCw_Main.png",
@@ -307,6 +303,10 @@
 				"Address" : "50voeCw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ハマゴウ",
@@ -314,10 +314,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "b9242217b874441e8facde8b38ff76bd",
 				"Address" : "kEG73Nts_Main.png",
@@ -333,6 +329,10 @@
 				"Address" : "kEG73Nts_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ヒガンバナ",
@@ -340,10 +340,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f07d47800fe15d41c13a995bfc3f866e",
 				"Address" : "cds16Dw_Main.png",
@@ -359,6 +355,10 @@
 				"Address" : "cds16Dw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ムスカリ",
@@ -366,10 +366,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "e01035ff90d6f45e5e51d082b1da99a9",
 				"Address" : "yWOh9c_Main.png",
@@ -385,6 +381,10 @@
 				"Address" : "yWOh9c_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ヤナギ",
@@ -392,10 +392,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "a1724c9c14403ec94d8e5ba0a1f77954",
 				"Address" : "yJ1TLzw_Main.png",
@@ -411,6 +407,10 @@
 				"Address" : "yJ1TLzw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "スイレン",
@@ -418,10 +418,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "2f9b20d8c06bb852241ba7e3e765233a",
 				"Address" : "P2lFdxw_Main.png",
@@ -437,6 +433,10 @@
 				"Address" : "P2lFdxw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "アジサイ",
@@ -444,10 +444,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fca55653837e25ee8110886712db9e69",
 				"Address" : "bh9jryw_Main.png",
@@ -463,6 +459,10 @@
 				"Address" : "bh9jryw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "キキョウ",
@@ -470,10 +470,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "7d76e981fe47957f5e99b8571944efef",
 				"Address" : "tMVTLzw_Main.png",
@@ -489,6 +485,10 @@
 				"Address" : "tMVTLzw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "スイセン",
@@ -496,10 +496,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "c106e107faa4ee43d9ee75d327066863",
 				"Address" : "sUvE8c_Main.png",
@@ -515,6 +511,10 @@
 				"Address" : "sUvE8c_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "スミレ",
@@ -522,10 +522,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "90c5471454d0ee7dfd73da3076b4e736",
 				"Address" : "AU9mf9OR_Main.png",
@@ -541,6 +537,10 @@
 				"Address" : "AU9mf9OR_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "トウモロコシ",
@@ -548,10 +548,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "4169be580d016b2c690fc9886514f578",
 				"Address" : "ImqusCw_Main.png",
@@ -567,6 +563,10 @@
 				"Address" : "ImqusCw_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "パンジー",
@@ -574,10 +574,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "52f73eae626539ed78b457bed8103c8a",
 				"Address" : "iKta9c_Main.png",
@@ -593,6 +589,10 @@
 				"Address" : "iKta9c_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ボタン",
@@ -600,10 +600,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "da72f22ca5ed6a09e18e7695288a9284",
 				"Address" : "r2PH04Bhb_Main.png",
@@ -619,6 +615,10 @@
 				"Address" : "r2PH04Bhb_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ヤエヤマブキ",
@@ -626,10 +626,6 @@
 			"Package" : "93"
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "836f4d2c8804a0bd7afe6820bfbb88ed",
 				"Address" : "5gPr9c_Main.png",
@@ -645,9 +641,143 @@
 				"Address" : "5gPr9c_Preview.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ワカメ",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Main" : {
+				"Hash" : "739664a4dcad91ddfe97af30b24a6fb4",
+				"Address" : "LN7H8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "24b738c0cde972e47df30d8875180b5c",
+				"Address" : "LN7H8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2d1e569b37e6af664cb8e119f4848ede",
+				"Address" : "LN7H8c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ソテツ",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Main" : {
+				"Hash" : "92d2a8fb613eca132006c6d2952bcbee",
+				"Address" : "ltn08c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6303fb466ca24c90f63b52ebd6081fd7",
+				"Address" : "ltn08c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "c36ce0d0f00adf804de4216b7912be53",
+				"Address" : "ltn08c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パキラ",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Main" : {
+				"Hash" : "b3e89c7ae8e69937b85582092268afc6",
+				"Address" : "jGjK7zw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0b5fd0194979a2aa46ee077d37f72a5c",
+				"Address" : "jGjK7zw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "281c60cb5b118ac616993186fadf4909",
+				"Address" : "jGjK7zw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ゼンマイ",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Main" : {
+				"Hash" : "956fa92577262b65519f89c166d3342a",
+				"Address" : "o3Gq8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "edb31ad5c15fa199e756493efcdbb5f7",
+				"Address" : "o3Gq8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "9ba009dba813f7cfc61cfa0eac3fb6ec",
+				"Address" : "o3Gq8c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "オクラ",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Main" : {
+				"Hash" : "00c75e762ad8f9b0efd3e55a60de67db",
+				"Address" : "A3qTTxw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5a68efce5834859d33eb89c67b241d65",
+				"Address" : "A3qTTxw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "7c3a46b8ff25249b76cb1a17032843d3",
+				"Address" : "A3qTTxw_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "エンドウ",
 			"Author" : "汞_無透",
 			"Package" : "93"
 		}
@@ -655,6 +785,39 @@
 	"Visors" : [
 	],
 	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "35dc49536f8caa9cb34b8ad0cc72d7a4",
+				"Address" : "zE0z5BpE_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "クルーは畑から捕れる",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Plate" : {
+				"Hash" : "3ad0f842167c519c25380ba0fd39a523",
+				"Address" : "dtzMRlElb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "密ってない林",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		},
+		{
+			"Plate" : {
+				"Hash" : "7807d4cf75af56cc589f5565a0ee10ac",
+				"Address" : "qEHX1nSyb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ちょっと穏やか",
+			"Author" : "汞_無透",
+			"Package" : "93"
+		}
 	],
 	"Packages" : [
 		{
