@@ -25,7 +25,9 @@
 			"FPS" : 1,
 			"Name" : "アーティチョーク",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -51,7 +53,9 @@
 			"FPS" : 1,
 			"Name" : "キバナルリソウ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -77,7 +81,9 @@
 			"FPS" : 1,
 			"Name" : "グズマニア",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -103,7 +109,9 @@
 			"FPS" : 1,
 			"Name" : "ススキ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -129,7 +137,9 @@
 			"FPS" : 1,
 			"Name" : "スズラン",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -155,7 +165,9 @@
 			"FPS" : 1,
 			"Name" : "タケ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -181,7 +193,9 @@
 			"FPS" : 1,
 			"Name" : "タンポポ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -207,7 +221,9 @@
 			"FPS" : 1,
 			"Name" : "ネモフィラ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -233,7 +249,9 @@
 			"FPS" : 1,
 			"Name" : "ハイビスカス",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -259,7 +277,9 @@
 			"FPS" : 1,
 			"Name" : "ハス",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -285,7 +305,9 @@
 			"FPS" : 1,
 			"Name" : "ハスカップ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -311,7 +333,9 @@
 			"FPS" : 1,
 			"Name" : "ハマゴウ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -337,7 +361,9 @@
 			"FPS" : 1,
 			"Name" : "ヒガンバナ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -363,7 +389,9 @@
 			"FPS" : 1,
 			"Name" : "ムスカリ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -389,7 +417,9 @@
 			"FPS" : 1,
 			"Name" : "ヤナギ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -415,7 +445,9 @@
 			"FPS" : 1,
 			"Name" : "スイレン",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -441,7 +473,9 @@
 			"FPS" : 1,
 			"Name" : "アジサイ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -467,7 +501,9 @@
 			"FPS" : 1,
 			"Name" : "キキョウ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -493,7 +529,9 @@
 			"FPS" : 1,
 			"Name" : "スイセン",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -519,7 +557,9 @@
 			"FPS" : 1,
 			"Name" : "スミレ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -545,7 +585,9 @@
 			"FPS" : 1,
 			"Name" : "トウモロコシ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -571,7 +613,9 @@
 			"FPS" : 1,
 			"Name" : "パンジー",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -597,7 +641,9 @@
 			"FPS" : 1,
 			"Name" : "ボタン",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -623,7 +669,9 @@
 			"FPS" : 1,
 			"Name" : "ヤエヤマブキ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -649,7 +697,9 @@
 			"FPS" : 1,
 			"Name" : "ワカメ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -675,7 +725,9 @@
 			"FPS" : 1,
 			"Name" : "ソテツ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -701,7 +753,9 @@
 			"FPS" : 1,
 			"Name" : "パキラ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -727,7 +781,9 @@
 			"FPS" : 1,
 			"Name" : "ゼンマイ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -753,7 +809,9 @@
 			"FPS" : 1,
 			"Name" : "オクラ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -779,7 +837,233 @@
 			"FPS" : 1,
 			"Name" : "エンドウ",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b0778fc7c2856e476602214b09ad92c4",
+				"Address" : "0IoE8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8f786d2bbb4145186fcb22a6bdee8d1d",
+				"Address" : "0IoE8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "eaf48c421331e8486d8bcc9384983255",
+				"Address" : "0IoE8c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "スイカ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3d72b718f55de57456289f4a4f457aee",
+				"Address" : "YcwJqyKNb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5f4419624a7a34bc10456756d8846848",
+				"Address" : "YcwJqyKNb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "d4d6f5f7f59cf537f6baedd07f5c6648",
+				"Address" : "YcwJqyKNb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パースニップ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d9bd720ec33922b204ceaeb8f3155d86",
+				"Address" : "F9Gy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0b7cd0e61e75a86ae19c88c21ce010d9",
+				"Address" : "F9Gy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "48be597625902d484b5fbcbaff3bb0b3",
+				"Address" : "F9Gy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ネギ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5db675615275002b99111bc798989eec",
+				"Address" : "HdFy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6426fdecf6006dd01cc43282622199ef",
+				"Address" : "HdFy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "fb56b31555c7a6353a5afbcfd57f0461",
+				"Address" : "HdFy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ソバ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3d8c11edfb4551d393a045efbd62f5a1",
+				"Address" : "buQr9c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2c2fb39e5b1d00830f18845a5c61edab",
+				"Address" : "buQr9c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "363fed95d3c5bed459c4956de7c673e6",
+				"Address" : "buQr9c_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ワサビ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "523a072c11f782205052ee1b3d2de0b5",
+				"Address" : "nmgOn3Sr_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ace42a10237b97bc0efd1f89b2deae65",
+				"Address" : "nmgOn3Sr_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "7cb57aff53a1d71f6fd4e16950513117",
+				"Address" : "nmgOn3Sr_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ウミブドウ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1d59070300632aa009202e7c72387827",
+				"Address" : "57Hy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2f63f2e8fee4e4dabc590c3eb6b4d4c7",
+				"Address" : "57Hy_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "4f79f5c5c12cc0e40e7678be39efdbe4",
+				"Address" : "57Hy_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "フジ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7b17ca7876503c2a77184e622e80fd8f",
+				"Address" : "NatXlE5r_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a62a3e264c97c903d0597ecbaf996f43",
+				"Address" : "NatXlE5r_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "ccd09b2cefb513a55bedb312ffe5161e",
+				"Address" : "NatXlE5r_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "サンショウ",
+			"Author" : "汞_無透",
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -794,7 +1078,9 @@
 			"AdaptiveInFront" : True,
 			"Name" : "クルーは畑から捕れる",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Plate" : {
@@ -805,7 +1091,9 @@
 			"AdaptiveInFront" : True,
 			"Name" : "密ってない林",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Plate" : {
@@ -816,14 +1104,20 @@
 			"AdaptiveInFront" : True,
 			"Name" : "ちょっと穏やか",
 			"Author" : "汞_無透",
-			"Package" : "93"
+			"Package" : "93",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
+	],
+	"Stamps" : [
 	],
 	"Packages" : [
 		{
 			"Package" : "93",
 			"Format" : "PlantPlanet",
-			"Priority" : 1
+			"Priority" : 1,
+			"IsLocalizable" : True
 		}
-	]
+	],
+	"IsLocalizable" : True
 }
